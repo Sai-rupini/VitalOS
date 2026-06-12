@@ -60,3 +60,15 @@ The ensemble architecture achieves superior reliability compared to any single c
 ---
 **Presented By:** Chitikesi Sai Rupini (Roll: 23VV1A1210) 
 **Branch:** Information Technology | **College:** JNTU-GV 
+---
+
+### 🖥️ Project Preview
+<img width="1356" height="637" alt="image" src="https://github.com/user-attachments/assets/d827c8aa-ad79-4974-9355-77c64a3dc1bc" />
+<img width="1364" height="637" alt="image" src="https://github.com/user-attachments/assets/0211f413-6d2d-4385-bd5a-2efc659826a6" />
+<img width="1356" height="630" alt="image" src="https://github.com/user-attachments/assets/29d5053c-2171-4004-9e7b-c0a2d6cbc374" />
+<img width="1363" height="624" alt="Screenshot 2026-06-12 124731" src="https://github.com/user-attachments/assets/b65e592e-8761-4d40-8f0f-344ee3ebce10" />
+
+
+
+
+
